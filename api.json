@@ -1,0 +1,12 @@
+{
+  "name": "d1.do",
+  "url": "https://d1.do",
+  "description: "Sample API for Cloudflare D1 SQLite Database",
+  "symbol": "彡",
+  "login": "https://d1.do/login",
+  "endpoints": {
+    "tables": "https://d1.do/api",
+    "table": "https://d1.do/api/:table",
+    "record": "https://d1.do/api/:table/:record"
+  }
+}
