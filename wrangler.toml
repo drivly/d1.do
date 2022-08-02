@@ -1,0 +1,10 @@
+name = "d1-do"
+account_id = "b6641681fe423910342b9ffa1364c76d"
+route = "d1.do/*"
+main = "worker.js"
+compatibility_date = "2022-07-18"
+
+[[ d1_databases ]]
+binding = "DB"
+database_name = "chinook"
+database_id = "f9b71f26-f77c-46cb-8a6d-9c9baeae3068"
